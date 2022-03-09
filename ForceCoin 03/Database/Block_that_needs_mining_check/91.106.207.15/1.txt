@@ -1,7 +1,0 @@
-user_sender: Bonus1000
-sent_coin: 1000
-user_recipient: 44041efa6426778003467407662aff4320bbf5b1fb265812fe443a1f149bd0e9
-data: 02.03.2022
-previous_hash:
-this_hash:
-miner_name:
