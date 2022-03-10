@@ -5,6 +5,7 @@ from Script import Wallet
 from Script import Block_that_needs_mining
 import sys
 import time
+import os
 
 
 Server.init()           # Проверка подключения и создание папок на серверах
@@ -68,11 +69,17 @@ if create_new_wallet == 'y':        # Если новый кошелек был 
 #--------------------------------------------------------------------------
 
 
-print('Адресс вашего кошелька')
-print(Wallet.c)
 
+clear = lambda: os.system('clear')
+clear()
 Blockchain.download()
 Block_that_needs_mining.download()
+
+
+
+
+print('Адресс вашего кошелька')
+print(Wallet.c)
 Wallet.balance_info(Wallet.c)
 
 
