@@ -71,7 +71,8 @@ if create_new_wallet == 'y':        # Если новый кошелек был 
 print('Адресс вашего кошелька')
 print(Wallet.c)
 
-
+Blockchain.download()
+Block_that_needs_mining.download()
 Wallet.balance_info(Wallet.c)
 
 
