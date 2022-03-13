@@ -1,0 +1,7 @@
+user_sender: 4_block_if_nothing_to_mine
+sent_coin: 1
+user_recipient: e440f16d94b92f01c8fc6a7dd965ded5afded30c670757a78bbf501d94907a6c
+data: 2022-03-14
+previous_hash: 00000abb8a31dff3d7e3485f3411ce45ebda27d974fe6bf87978fbca83582866
+this_hash: 0000092bbf9f3698d3ad32a98f1c1c6cc61dc9e009072d0563c0f813f8b60dbb
+miner_name: f9f317c94e37fc97ed9769028f5a859756f4921c1f9e336647863b380da28503
