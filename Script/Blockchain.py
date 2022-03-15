@@ -108,8 +108,9 @@ def check_2():
             #print(hash)
 
             if hash == this_hash:
-                print('Хэш блока номер',z , 'праввильный')
-                shutil.copyfile('Database/Blockchain_processing_1/' + str(z) + '.txt', 'Database/Blockchain_processing_2/' + str(z) + '.txt')
+                if this_hash[:5] == '00000':
+                    print('Хэш блока номер',z , 'праввильный')
+                    shutil.copyfile('Database/Blockchain_processing_1/' + str(z) + '.txt', 'Database/Blockchain_processing_2/' + str(z) + '.txt')
             else:
                 print('Хэш блока номер', z, 'не сходится, блок не правильный')
     except:
