@@ -1,9 +1,0 @@
-block_type: Coin
-user_sender: Bonus1000
-sent_coin: 37
-user_recipient: af2a749009618f6dade577441ba2043e
-data: -
-previous_hash: 0
-hash_key: 574622367
-this_hash: 000004c1018e7f9444748ce88fb112d98c8dd114d4764669c16c56b715fc0d61
-miner_name: af2a749009618f6dade577441ba2043e

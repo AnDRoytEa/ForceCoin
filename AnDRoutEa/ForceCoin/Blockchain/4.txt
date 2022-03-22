@@ -1,9 +1,0 @@
-block_type: Art
-user_sender: af2a749009618f6dade577441ba2043e
-sent_coin: -
-user_recipient: af2a749009618f6dade577441ba2043e
-data: 1.png
-previous_hash: 00000cfb2dbb40df641adb44145d9cc7deeafef79513db072c014d587c772133
-hash_key: 756006966
-this_hash: 00000bf9873c37063815691e3043ea17be28217c7c5da0c52ff30c2e6485d63f
-miner_name: af2a749009618f6dade577441ba2043e
