@@ -1,9 +1,0 @@
-block_type: Coin
-user_sender: 4_block_if_nothing_to_mine
-sent_coin: 0.01
-user_recipient: af2a749009618f6dade577441ba2043e
-data: -
-previous_hash: 00000720f20a7694eddf6fc0d6352526f471e871bce380ae5825bbcb6ccefe67
-hash_key: 721420910
-this_hash: 00000a73a899b5d273c05b95ac5890cd5f5273c6e15f7f2f57538bf7211976d6
-miner_name: af2a749009618f6dade577441ba2043e
