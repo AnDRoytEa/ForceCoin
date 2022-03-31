@@ -1,0 +1,9 @@
+block_type: Art
+user_sender: 64a6f687a8f0ccc35cb32c9394d6aeb8
+sent_coin: -
+user_recipient: 6486f55ba468b39e6c84ac45c8347390
+data: azi.png
+previous_hash:
+hash_key:
+this_hash:
+miner_name:
