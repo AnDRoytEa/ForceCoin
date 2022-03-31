@@ -1,9 +1,0 @@
-block_type: Coin
-user_sender: block_if_nothing_to_mine
-sent_coin: -
-user_recipient: -
-data: -
-previous_hash:
-hash_key:
-this_hash:
-miner_name:
