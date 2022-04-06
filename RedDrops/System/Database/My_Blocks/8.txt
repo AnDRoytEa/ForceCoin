@@ -1,0 +1,9 @@
+block_type: Coin
+user_sender: 64a6f687a8f0ccc35cb32c9394d6aeb8
+sent_coin: 0.001
+user_recipient: 64a6f687a8f0ccc35cb32c9394d6aeb8
+data: -
+previous_hash:
+hash_key:
+this_hash:
+miner_name:
