@@ -1,9 +1,0 @@
-block_type: Coin
-user_sender: 64a6f687a8f0ccc35cb32c9394d6aeb8
-sent_coin: 0.001
-user_recipient: 123123
-data: -
-previous_hash: 000000201dcd5da92c5716d67e7a2a69dcd6d10fc0e48feaebad2637161fe806
-hash_key: 523359084
-this_hash: 00000b619388c13fb0a3a139bf3e33249dde3a039feaa0563dcaa0f5ce5f948c
-miner_name: 64a6f687a8f0ccc35cb32c9394d6aeb8
