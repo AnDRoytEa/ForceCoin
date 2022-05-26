@@ -1,0 +1,11 @@
+block_number: 6
+object_type: coin
+user_sender: block_if_nothing_to_mine
+sent_object: -
+user_recipient: -
+data: -
+signature: -
+hash_key: 880705760
+miner_name: MEgCQQDb729zfphkbUwXDiPMtPst2pF5xlKAgJHBMQ8HNjvSSjfYBO/VZIfeCa0ZDtEaLwb9dLa2v+Et4erkIGDh6jb7AgMBAAE=
+previous_hash: 00000f3a1a78346b6384b5b799390628f2450bb9daead2d0ed3cbb37ee2b1dd6
+this_hash: 00000ce0167492915d9376d98fb6885a1221e09fbcc1f4814d8308a51399df07

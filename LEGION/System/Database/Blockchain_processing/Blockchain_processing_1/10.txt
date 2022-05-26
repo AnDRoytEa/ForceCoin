@@ -1,0 +1,11 @@
+block_number: 10
+object_type: coin
+user_sender: block_if_nothing_to_mine
+sent_object: -
+user_recipient: -
+data: -
+signature: -
+hash_key: 327296563
+miner_name: MEgCQQDb729zfphkbUwXDiPMtPst2pF5xlKAgJHBMQ8HNjvSSjfYBO/VZIfeCa0ZDtEaLwb9dLa2v+Et4erkIGDh6jb7AgMBAAE=
+previous_hash: 00000f19099806a702b7bfa63e0415b1802fc3ed171d9cc5e721f71c60928eb6
+this_hash: 00000050767ac567c99007610fe7d5421f665b809befc7d50626299b67d64653

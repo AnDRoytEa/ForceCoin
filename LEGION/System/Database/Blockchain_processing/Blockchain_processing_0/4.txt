@@ -1,0 +1,11 @@
+block_number: 4
+object_type: coin
+user_sender: block_if_nothing_to_mine
+sent_object: -
+user_recipient: -
+data: -
+signature: -
+hash_key: 246748182
+miner_name: MEgCQQDb729zfphkbUwXDiPMtPst2pF5xlKAgJHBMQ8HNjvSSjfYBO/VZIfeCa0ZDtEaLwb9dLa2v+Et4erkIGDh6jb7AgMBAAE=
+previous_hash: 000007f2122e8688750ab5a33468bd68a28a8b96061a9a795a3234691b8fa72e
+this_hash: 00000d0ca30898a18e48570d5a8c42fc6b2acb03153b27ed53f060064ce1cbf3
